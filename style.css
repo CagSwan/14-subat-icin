@@ -1,0 +1,218 @@
+@import url('https://fonts.googleapis.com/css2?family=Delicious+Handrawn&display=swap');
+
+/*
+.delicious-handrawn-regular {
+  font-family: "Delicious Handrawn", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+/*
+.lobster-regular {
+  font-family: "Lobster", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+*/
+
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+
+@media (max-width: 360px) {
+
+    body {
+        background-color: #3cff00;
+    }
+
+    .ustBar {
+        width: 100%;
+        height: 100px;
+        background-color: #d99ff0
+    }
+
+    #scuadges-header {
+        color: #fff;
+        font-family: "Lobster", serif;
+        font-weight: bolder;
+        font-size: 25px;
+        text-align: center;
+        padding-top: 25px;
+    }
+
+    .bolum-1 {
+        width: 100%;
+        background-color: #ec8890;
+        height: 732px;
+    }
+
+    #feb14 {
+        font-family: "Delicious Handrawn", serif;
+        font-size: 60px;
+        color: #fff;
+        text-align: center;
+    }
+
+    .bolum-2 {
+        width: 100%;
+        background-color: #3498DB;
+        height: 932px;
+    }
+
+    .feb14-2{
+        font-family: "Delicious Handrawn", serif;
+        font-size: 60px;
+        color: #fff;
+        text-align: center;
+        margin: 6px;
+    }
+
+    .bolum-3 {
+        width: 100%;
+        background-color: #91eb89;
+        height: 932px;
+    }
+
+    .feb14-3{
+        font-family: "Delicious Handrawn", serif;
+        font-size: 60px;
+        color: #fff;
+        text-align: center;
+     }
+
+     .bolum-4 {
+        background-color: #7270e4;
+        height: 932px;
+    }
+
+    .feb14-4 {
+        width: 100%;
+        font-family: "Delicious Handrawn", serif;
+        font-size: 50px;
+        color: #fff;
+        text-align: center;
+    }
+
+    #foto-1 {
+        width: 340px;
+        height: 340px;
+        margin: 10px;
+    }
+
+
+
+    #password-1 {
+        font-family: cursive;
+        font-size: 14px;
+        font-weight: bolder;
+    }
+
+    .bolum-5 {
+        width: 100%;
+        background-color: #ebe189;
+        height: 930px;
+    }
+
+    .feb14-5 {
+        font-family: "Delicious Handrawn", serif;
+        font-size: 50px;
+        color: #fff;
+        text-align: center;
+    }
+
+    #foto-2 {
+        width: 360px;
+        height: 365px;
+        margin-top: 231px;
+    }
+
+
+
+    .bolum-6 {
+        width: 100%;
+        background-color: #e2e0cc;
+        height: 930px;
+    }
+
+    .feb14-6 {
+        font-family: "Delicious Handrawn", serif;
+        font-size: 52px;
+        color: #fff;
+        text-align: center;
+    }
+
+    #foto-3 {
+        width: 270px;
+        height: 480px;
+        margin-top: 100px;
+        margin-left: 45px;
+    }
+
+
+
+    .bolum-7 {
+        background-image: url('WAAAAAAAY.PNG');
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 867px;
+        background-color: #e2e0cc;
+    }
+
+    .feb14-7 {
+        font-family: "Delicious Handrawn", serif;
+        font-size: 52px;
+        color: #fff;
+        text-align: center;
+        background-color: rgba(63, 63, 62, 0.9);
+    }
+
+
+
+    .bolum-8 {
+        background-color: #84c77c;
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 867px;
+    }
+
+    .feb14-8 {
+        font-family: "Delicious Handrawn", serif;
+        font-size: 20px;
+        color: #fff;
+        text-align: center;
+    }
+
+    #foto-4 {
+        margin-top: 100px;
+        margin-left: 45px;
+    }
+
+
+
+    .bolum-9 {
+        background-color: #c77ca1;
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 867px;
+    }
+
+    .feb14-9 {
+        font-family: "Delicious Handrawn", serif;
+        font-size: 50px;
+        color: #fff;
+        text-align: center;
+        margin: 10px;
+    }
+
+    #foto-5 {
+        width: 350px;
+        height: 170px;
+        margin: 5px;
+    }
+}
